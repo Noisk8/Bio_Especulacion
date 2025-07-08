@@ -52,7 +52,7 @@ Cargamos el resuoltado del entrenamiento .ckpt y lo ponemos en el drive e una ca
 
 ## Creación de Animación 
 
-[Deforum Stable Difusion](https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=232_xKcCfIj9)
+[**Deforum Stable Difusion**](https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb#scrollTo=232_xKcCfIj9)
 
 Dentro del Colab vamos a llamar el molde que entrenamos 
 
