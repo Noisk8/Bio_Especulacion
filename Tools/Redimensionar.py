@@ -71,8 +71,8 @@ def main():
     """Función principal del script"""
     
     # Configuración - Modifica estas rutas según tus necesidades
-    input_folder = "/home/igor/Documents/DATASET_BIODIVERSIDAD/"  # Carpeta con imágenes originales
-    output_folder = "/home/igor/Documents/DATASET_BIODIVERSIDAD/imagenes_500x500"    # Carpeta para imágenes redimensionadas
+    input_folder = "/home/igor/Documents/DATASET_BIODIVERSIDAD/Bio_Especulacion/biodiversidad_colombia"  # Carpeta con imágenes originales
+    output_folder = "/home/igor/Documents/DATASET_BIODIVERSIDAD/Bio_Especulacion/biodiversidad_colombia_500x500"    # Carpeta para imágenes redimensionadas
     
     # Dimensiones deseadas
     width = 500

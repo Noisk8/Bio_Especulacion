@@ -21,7 +21,7 @@ Elije las que más te gusten, con las que quieras crear tus personajes espcultav
 
 Guardalas en una carpeta 🗂️
 
-> [**🛑NOTA**]  
+> [**🌋NOTA**]  
 > Minimo **10 Fotos** 
 
 Lo recomendado es convertir las imagenes a un tamaño homogeniozado, por ejemplo **500 x 500**, para hacer esto en lote, te recomendamos usar este [**Script Redimensionador**](https://github.com/Noisk8/Bio_Especulacion/Tools/Redimensionar.py) escrito en **python** que utiliza la libreria [**ffmpeg**](https://ffmpeg.org/) 
@@ -44,7 +44,7 @@ chmod +x Redimensionar.py
 
 ## Entrenamiento del Molde 🧗‍♀️
 
-> [**🛑NOTA**]  
+> [**🌋NOTA**]  
 > Antes de ejecutar el Notebook debes tener  varias cosas listas 
 > * Crea una carpeta 🗂️ llamada **Dreambooth_Bio** en el drive
 > * Guarda las imagenes redimensionadas en la carpeta 🗂️ llamada **Dreambooth_Bio** en el drive
