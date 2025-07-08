@@ -39,4 +39,31 @@ chmod +x Redimensionar.py
 
 
 
+## Entrenamiento del Molde 🧗‍♀️
+
+[**BiodiversidadColombiana.ipynb**](https://colab.research.google.com/drive/1wtAYBG3Org3mpgXFheY24tf15yTWYOge?authuser=1#scrollTo=-8JWf-fxfGka)
+
+Para Entrenar nuestro molde Vamos a usando LoRA para ahorro de memoria, y un molde base de Stable Difussion 
+
+Cargamos el resuoltado del entrenamiento .ckpt y lo ponemos en el drive e una carpetra que recuerdes 
+
+
+
+
+## Creación de Animación 
+
+
+Dentro del Colab vamos a llamar el molde que entrenamos 
+
+~~~
+models_path_gdrive: /content/drive/MyDrive/AI/models{carpeta donde está la carpeta}
+~~~
+
+~~~
+model_checkpoint: Custom 
+~~~
+
+~~~
+custom_config_path: /content/drive/MyDrive/AI/models/{ruta ezacta del molde}
+~~~
 
