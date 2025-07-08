@@ -1,4 +1,4 @@
-# Bio_Especulación
+# **Bio_Especulación 🐊🦦🦏🍁🌴🪴🦇🦩🦠🐝**
 
 ### Requerimientos 
 
@@ -66,4 +66,5 @@ model_checkpoint: Custom
 ~~~
 custom_config_path: /content/drive/MyDrive/AI/models/{ruta ezacta del molde}
 ~~~
+
 
