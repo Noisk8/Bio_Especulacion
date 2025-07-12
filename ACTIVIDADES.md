@@ -2,15 +2,14 @@
 
 
 
-
-## 28 Julio 2025 📅
+## martes 29 Julio 2025 📅 4 a 6 pm 
 **Duración: 2 Horas**
 
 ### Presentación personal [Johana | Juan] | **10 minutos**
 
 ## Presentación de los participantes | **20 minutos**
 
-Preguntar por cómo llegaron acá y cuales on sus espectativas. 
+Preguntar por cómo llegaron acá y cuales con sus espectativas. 
 
 ### Presentación de los objetivos del Laboratorio | **20 minutos**
 
@@ -29,7 +28,7 @@ Explicación de Cómo vamos a implementar las herramientas que vimos previamente
 ### Creación de Centas | **20 minutos**
 
 
-## 29 Julio 2025 📅
+## 30  Julio 2025 📅 4 a 6 
 **Duración: 2 Horas**
 
 ### Saludo Inicial | **10 minutos**
@@ -55,7 +54,7 @@ Damos una ojeada al código del notebook  para explicar cómo es su funcionamien
 
 
 
-## 30 Julio 2025 📅
+## 31 Julio 2025 📅  | 4 a pm 
 **Duración: 2 Horas**
 
 ### Saludo Inicial | **10 minutos**
