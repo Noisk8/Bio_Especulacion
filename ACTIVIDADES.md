@@ -1,7 +1,5 @@
 # Actividades 📚
 
-
-
 ## martes 29 Julio 2025 📅 4 a 6 pm 
 **Duración: 2 Horas**
 
@@ -23,9 +21,12 @@ Explicación de Cómo vamos a implementar las herramientas que vimos previamente
 * **Redimensionamiento de las Imagenes**
 * **Reconocimiento del codigo del notebook** 
 * **Entrenamiento del modelo**
-* **Creación de imagene y animaciones**
+* **Creación de imagenes y animaciones**
 
 ### Creación de Centas | **20 minutos**
+
+
+
 
 
 ## 30  Julio 2025 📅 4 a 6 
