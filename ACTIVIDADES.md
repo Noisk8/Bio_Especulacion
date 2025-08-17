@@ -49,7 +49,7 @@ Correr el script de redimensionamiento
 
 ### Reconocimiento del codigo del notebook | **20 minutos**
 
-Damos una ojeada al código del notebook  para explicar cómo es su funcionamiento, si entrar en mucho detalle tecnico.
+Damos una ojeada al código del notebook  para explicar cómo es su funcionamiento, si entrar en mucho detalle técnico.
 
 ### Ejecución del Notebook | **20 minutos**
 
