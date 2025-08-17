@@ -7,7 +7,7 @@
 
 ## Presentación de los participantes | **20 minutos**
 
-Preguntar por cómo llegaron acá y cuales con sus espectativas. 
+Preguntar por cómo llegaron acá y cuales con sus expectativas. 
 
 ### Presentación de los objetivos del Laboratorio | **20 minutos**
 
@@ -23,7 +23,7 @@ Explicación de Cómo vamos a implementar las herramientas que vimos previamente
 * **Entrenamiento del modelo**
 * **Creación de imagenes y animaciones**
 
-### Creación de Centas | **20 minutos**
+### Creación de Cuentas | **20 minutos**
 
 
 
