@@ -9,7 +9,7 @@
 
 Preguntar por cómo llegaron acá y cuales con sus expectativas. 
 
-### Presentación de los objetivos del Laboratorio | **20 minutos**
+### Presentación de los objetivos del taller | **20 minutos**
 
 ### Presentación de las Herramientas | **20 minutos**
 
