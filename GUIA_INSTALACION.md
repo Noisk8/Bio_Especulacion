@@ -16,6 +16,7 @@ La opción anterior sugiere la descarga manual, para hacer descargas automática
 
 ✅ [**Requisitos previos**]
 [**Tener Python instalado**](https://www.python.org/downloads/)
+Durante la instalación marca la opción "Add Python to PATH".
 
 🧾 Paso a paso para usar el script en Windows
 
