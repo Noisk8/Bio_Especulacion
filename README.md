@@ -12,6 +12,18 @@
 
 * [**Ffmpeg**](https://ffmpeg.org/)
 
+### 🤔 ¿Por qué entrenar un modelo en lugar de usar Midjourney?
+
+Aunque herramientas como Midjourney generan imágenes sorprendentes, este taller propone algo diferente: **entrenar nuestro propio modelo con imágenes de biodiversidad colombiana de acceso abierto**.
+
+Esto nos permite:
+
+- 🌱 **Crear desde nuestros propios archivos**, no desde una base de datos cerrada.
+- 🧠 **Comprender cómo la inteligencia artificial construye una imagen**, no solo usarla como caja negra.
+- 🧬 **Explorar estéticas nuevas y especulativas**, basadas en mezclas inesperadas de plantas, animales y formas naturales locales.
+- 🔓 **Liberar el modelo entrenado**, para que otros puedan seguir creando con él.
+
+Aquí **la imagen no es el fin, sino el medio** para experimentar con archivos abiertos, procesos de aprendizaje automático y creación colectiva.
 
 
 ## **Proceso de Fine - Tuning ⚙️**
