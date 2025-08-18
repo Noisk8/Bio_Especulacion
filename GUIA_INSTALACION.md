@@ -15,7 +15,7 @@
 La opción anterior sugiere la descarga manual, para hacer descargas automáticas usa el siguiente tutorial (recomendado para después de hacer pruebas, para tener datasets más grandes y poderlos asociar con metadata importante como el nombre de los autores)
 
 ✅ [**Requisitos previos**]
-[**Tener Python instalado**]([https://github.com/Noisk8/Bio_Especulacion/blob/main/GUIA_INSTALACION.md#-instalaci%C3%B3n-en-windows](https://www.python.org/downloads/))
+[**Tener Python instalado**](https://www.python.org/downloads/)
 
 🧾 Paso a paso para usar el script en Windows
 
