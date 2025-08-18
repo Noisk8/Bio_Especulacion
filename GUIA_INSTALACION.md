@@ -1,7 +1,7 @@
 # 📚 Guía Completa de Instalación
 
 ## 🖥️ Tabla de Contenidos
-1. [Instalación en Windows](#-instalación-en-windows)
+1. [Instalación en Windows](#-Windows)
 2. [Instalación en macOS](#-instalación-en-macos)
 3. [Instalación en Linux](#-instalación-en-linux)
 4. [Verificación de la Instalación](#-verificación-de-la-instalación)
