@@ -25,6 +25,21 @@ Esto nos permite:
 
 Aquí **la imagen no es el fin, sino el medio** para experimentar con archivos abiertos, procesos de aprendizaje automático y creación colectiva.
 
+### 📂 ¿Por qué trabajar con archivos abiertos como el de Wikimedia Commons?
+
+Este proyecto se basa en un conjunto de más de 1300 imágenes de biodiversidad colombiana con licencias abiertas, alojadas en [Wikimedia Commons](https://commons.wikimedia.org/). Usar un dataset abierto no es solo una decisión técnica: es una postura.
+
+Trabajar con archivos abiertos significa:
+
+- 🧭 **Reapropiarse de los datos públicos**: Estamos usando imágenes construidas colectivamente y disponibles libremente para crear nuevas narrativas visuales.
+- 🌎 **Ampliar el acceso y la redistribución**: Cualquier persona puede reutilizar, modificar y seguir experimentando con este archivo. No hay barreras ni permisos restrictivos.
+- 💥 **Descentralizar la imaginación de la IA**: En lugar de entrenar modelos con imágenes genéricas o controladas por grandes plataformas, usamos contenido local, diverso y común.
+- 🫱🏼‍🫲🏽 **Hacer comunidad desde los datos**: Lo abierto permite que lo que hacemos sea compartido, expandido, comentado, criticado y mejorado por otrxs.
+
+Este archivo no es solo una colección de fotos: es un campo fértil para la creación, la pedagogía y la especulación desde el sur global. Entrenar una IA con estas imágenes es también un acto de imaginación política.
+
+> 🌱 *La biodiversidad como código abierto para imaginar nuevas formas de vida.*
+
 
 ## **Proceso de Fine - Tuning ⚙️**
 
