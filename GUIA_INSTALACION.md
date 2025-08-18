@@ -15,8 +15,48 @@
 La opción anterior sugiere la descarga manual, para hacer descargas automáticas usa el siguiente tutorial (recomendado para después de hacer pruebas, para tener datasets más grandes y poderlos asociar con metadata importante como el nombre de los autores)
 
 ✅ [**Requisitos previos**]
-[**Tener Python instalado**](https://www.python.org/downloads/)
-Durante la instalación marca la opción "Add Python to PATH".
+[**Tener Python instalado**]
+
+# 🐍 Instalación de Python en Windows
+
+## 1. Descargar Python
+- Ir a la página oficial: [https://www.python.org/downloads/](https://www.python.org/downloads/)  
+- Clic en **Download Python 3.x.x** (última versión).  
+
+![Descargar Python](https://www.python.org/static/img/python-logo.png)
+
+---
+
+## 2. Ejecutar el instalador
+- Abrir el archivo `python-3.x.x.exe`.  
+- **Importante**: marcar la casilla **"Add Python 3.x to PATH"**.  
+- Clic en **Install Now**.  
+
+![Instalador de Python](https://docs.python.org/3/_images/win_installer.png)
+
+---
+
+## 3. Proceso de instalación
+- Esperar mientras se instalan los componentes.  
+
+![Instalando Python](https://docs.python.org/3/_images/win_installer_progress.png)
+
+---
+
+## 4. Instalación completada
+- Aparecerá el mensaje **Setup was successful**.  
+- Clic en **Close**.  
+
+![Instalación completa](https://docs.python.org/3/_images/win_installer_success.png)
+
+---
+
+## 5. Verificar instalación
+- Abrir **Símbolo del sistema (cmd)** desde el menú Inicio.  
+- Escribir:  
+  ```bash
+  python --version
+
 
 🧾 Paso a paso para usar el script en Windows
 
