@@ -39,15 +39,11 @@ La opción anterior sugiere la descarga manual, para hacer descargas automática
 ## 3. Proceso de instalación
 - Esperar mientras se instalan los componentes.  
 
-![Instalando Python](https://docs.python.org/3/_images/win_installer_progress.png)
-
 ---
 
 ## 4. Instalación completada
 - Aparecerá el mensaje **Setup was successful**.  
 - Clic en **Close**.  
-
-![Instalación completa](https://docs.python.org/3/_images/win_installer_success.png)
 
 ---
 
