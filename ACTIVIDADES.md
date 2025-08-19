@@ -18,7 +18,6 @@ Explicación de Cómo vamos a implementar las herramientas que vimos previamente
 
 * **Abrir cuentas**
 * **Selección de material para entrenar el modelo**
-* **Redimensionamiento de las Imagenes**
 * **Reconocimiento del codigo del notebook** 
 
 ### Creación de Cuentas | **20 minutos**
@@ -31,16 +30,11 @@ Explicación de Cómo vamos a implementar las herramientas que vimos previamente
 
 ### Recorderis de la sesión pasada | **10 minutos**
 
-
-### Abrir cuentas | **20 minutos**
-
 ### Selección de material para entrenar el modelo | **20 minutos**
 
 ### Redimensionamiento de las Imagenes | **20 minutos**
 
-Instalación de Python y ffmpeg
-
-Correr el script de redimensionamiento
+* **Redimensionamiento de las Imagenes**
 
 ### Reconocimiento del codigo del notebook | **20 minutos**
 
