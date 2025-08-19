@@ -20,13 +20,8 @@ Explicación de Cómo vamos a implementar las herramientas que vimos previamente
 * **Selección de material para entrenar el modelo**
 * **Redimensionamiento de las Imagenes**
 * **Reconocimiento del codigo del notebook** 
-* **Entrenamiento del modelo**
-* **Creación de imagenes y animaciones**
 
 ### Creación de Cuentas | **20 minutos**
-
-
-
 
 
 ## 21 Agosto 2025 📅 4 a 6 
