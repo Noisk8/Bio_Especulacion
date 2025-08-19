@@ -1,6 +1,6 @@
 # Actividades 📚
 
-## martes 29 Julio 2025 📅 4 a 6 pm 
+## martes 19 Agosto 2025 📅 4 a 6 pm 
 **Duración: 2 Horas**
 
 ### Presentación personal [Johana | Juan] | **10 minutos**
@@ -29,7 +29,7 @@ Explicación de Cómo vamos a implementar las herramientas que vimos previamente
 
 
 
-## 30  Julio 2025 📅 4 a 6 
+## 21 Agosto 2025 📅 4 a 6 
 **Duración: 2 Horas**
 
 ### Saludo Inicial | **10 minutos**
@@ -55,7 +55,7 @@ Damos una ojeada al código del notebook  para explicar cómo es su funcionamien
 
 
 
-## 31 Julio 2025 📅  | 4 a pm 
+## 22 Agosto 2025 📅  | 4 a pm 
 **Duración: 2 Horas**
 
 ### Saludo Inicial | **10 minutos**
