@@ -24,7 +24,7 @@ Explicación de Cómo vamos a implementar las herramientas que vimos previamente
 ### Creación de Cuentas | **20 minutos**
 
 
-## 21 Agosto 2025 📅 4 a 6 
+## 21 Agosto 2025 📅 4 a 7 
 **Duración: 2 Horas**
 
 ### Saludo Inicial | **10 minutos**
@@ -50,7 +50,7 @@ Damos una ojeada al código del notebook  para explicar cómo es su funcionamien
 
 
 
-## 22 Agosto 2025 📅  | 4 a pm 
+## 22 Agosto 2025 📅  | 10 am  - 1pm 
 **Duración: 2 Horas**
 
 ### Saludo Inicial | **10 minutos**
