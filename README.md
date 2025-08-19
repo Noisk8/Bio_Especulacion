@@ -88,7 +88,7 @@ python Redimensionar.py
 > * Crea el token 📝  token de hugging face, el token debe de ser con persmisos de ecritura
 
 
-## [**📝Notebook**](https://colab.research.google.com/drive/1wtAYBG3Org3mpgXFheY24tf15yTWYOge?authuser=1#scrollTo=-8JWf-fxfGka)
+## [**📝Notebook**]([https://colab.research.google.com/drive/1wtAYBG3Org3mpgXFheY24tf15yTWYOge?authuser=1#scrollTo=-8JWf-fxfGka](https://colab.research.google.com/drive/1iXGiuIEBOjnSvb52b40Vkbdn0LO0RCR2?usp=sharing))
 
 
 
