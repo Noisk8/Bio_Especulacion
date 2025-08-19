@@ -53,13 +53,6 @@ La opción anterior sugiere la descarga manual, para hacer descargas automática
   ```bash
   python --version
 
-Debería mostrar algo como:
-```bash
-Python 3.13.7
-
-Verificar también pip:
-```bash
-pip --version
 
 🧾 Paso a paso para usar el script en Windows
 
