@@ -53,8 +53,15 @@ La opción anterior sugiere la descarga manual, para hacer descargas automática
   ```bash
   python --version
 
+Debería mostrar algo como:
 
-🧾 Paso a paso para usar el script en Windows
+Python 3.12.5
+
+Verificar también pip:
+pip --version
+
+
+# 🧾 Paso a paso para usar el script en Windows 
 
 🟩 [**1. Crea una carpeta para tu proyecto**]
 Por ejemplo:
