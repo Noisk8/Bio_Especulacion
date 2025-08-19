@@ -55,11 +55,19 @@ La opción anterior sugiere la descarga manual, para hacer descargas automática
 
 Debería mostrar algo como:
 
-Python 3.12.5
+  Python 3.12.5
 
 Verificar también pip:
-pip --version
+- Escribir:  
+  ```bash
+  pip --version
 
+## 6. Instalar librerías necesarias del taller
+
+Estas librerías son obligatorias para ejecutar los scripts de descarga desde Wikimedia Commons y redimensionamiento de imágenes:
+- Escribir:  
+  ```bash
+  pip install requests pillow
 
 # 🧾 Paso a paso para usar el script en Windows 
 
